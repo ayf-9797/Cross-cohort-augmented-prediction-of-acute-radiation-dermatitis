@@ -1,2 +1,2 @@
-# Cross-cohort-augmented-prediction-of-acute-radiation-dermatitis
-The code of "Cross-cohort augmented prediction of acute radiation dermatitis during breast proton therapy: a temporal test study"
+# Predicting acute radiation dermatitis to inform personalized supportive care in breast cancer proton therapy: a cross-cohort machine learning study with temporal validation
+The code of "Predicting acute radiation dermatitis to inform personalized supportive care in breast cancer proton therapy: a cross-cohort machine learning study with temporal validation"
